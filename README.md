@@ -52,3 +52,5 @@ A data analytics project analyzing seasonal agricultural performance across crop
 
 - `Seasonal_Agriculture_Performance_Analysis_FINAL (2).ipynb` — full analysis notebook
 - `seasonal_agriculture_performance_dataset.csv` — dataset used for the analysis
+- `VOIS_Major_Project_PPT.pptx` — final presentation slides
+- `Major Project_Seasonal Agriculture Performance Analysis.pdf` — original project brief
